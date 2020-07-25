@@ -14,3 +14,6 @@ This repository will show the method for detecting Indonesian plate car using Py
 
 4. __Image to string__ with Pytesseract and the result is :
 
+![Fig2](https://github.com/fidelisgalla/Indonesia-Car-Number-Plate-Detection/blob/master/result.jpg?raw=true)
+
+The code still needs improvement, especially for the image to text process.
